@@ -1,5 +1,6 @@
 # ZenStates-Linux
 Collection of utilities for Ryzen processors and motherboards
+Not written by me, forked from https://github.com/r4m0n
 
 ## zenstates.py
 Dynamically edit AMD Ryzen processor P-States
